@@ -1,1 +1,1 @@
-# titanic_survivad
+# titanic_survival
